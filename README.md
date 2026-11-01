@@ -15,7 +15,7 @@ This project demonstrates how linear algebra can be used to transform and projec
 
 ## Preview
 
-![3D Cube Renderer](assets/screenshot.png)
+![3D Cube Renderer](screenshot.png)
 
 ## Installation
 
